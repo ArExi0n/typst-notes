@@ -1,0 +1,16 @@
+{
+  "cssTheme": "OLED.Black",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font Mono,JetBrainsMono Nerd Font",
+  "accentColor": "",
+  "baseFontSize": 22,
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "style"
+  ],
+  "showViewHeader": false,
+  "showRibbon": false,
+  "textFontFamily": "JetBrainsMono Nerd Font Mono,JetBrainsMono Nerd Font",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font Propo,JetBrainsMonoNL Nerd Font",
+  "nativeMenus": false,
+  "translucency": false
+}

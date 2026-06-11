@@ -1,0 +1,61 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "Extra/Template",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "Books",
+      "template": "Extra/Template/book-note.md"
+    },
+    {
+      "folder": "Journal",
+      "template": "Extra/Template/journal.md"
+    },
+    {
+      "folder": "Notes",
+      "template": "Extra/Template/notes.md"
+    },
+    {
+      "folder": "Uni",
+      "template": "Extra/Template/uni-note.md"
+    },
+    {
+      "folder": "Extra",
+      "template": "Extra/Template/projects.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    "Extra/Template/journal.md",
+    ""
+  ],
+  "startup_templates": [
+    "Extra/Template/notes.md",
+    "Extra/Template/journal.md"
+  ],
+  "intellisense_render": 1,
+  "ignore_folders_on_creation": [
+    {
+      "folder": ""
+    }
+  ]
+}

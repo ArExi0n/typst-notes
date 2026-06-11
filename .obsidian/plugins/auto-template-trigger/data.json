@@ -1,0 +1,22 @@
+{
+  "folderSpecificTemplates": [
+    {
+      "folderPath": "Notes",
+      "templateName": "notes"
+    },
+    {
+      "folderPath": "Books",
+      "templateName": "book-note"
+    },
+    {
+      "folderPath": "Uni",
+      "templateName": "uni-note"
+    },
+    {
+      "folderPath": "Journal",
+      "templateName": "journal"
+    }
+  ],
+  "disablePrompt": false,
+  "debug": false
+}

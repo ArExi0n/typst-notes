@@ -1,0 +1,26 @@
+{
+  "daily-notes": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": " "
+    }
+  ],
+  "insert-current-date": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "D"
+    }
+  ],
+  "global-search:open": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "F"
+    }
+  ]
+}
