@@ -1,17 +1,18 @@
 ---
-date: 2025-04-26
-updated: 2025-04-29
-class: note
+id: Rust
+aliases:
+  - Why rust ? Is node.js is not enough
 tags:
   - rust
   - programming
-source:
+class: note
+course: rust
+date: "2025-04-26"
+description: Rust programming language fundamentals - ownership, borrowing, structs, enums
 related:
   - "[[Backend Notes]]"
-description: "Rust programming language fundamentals - ownership, borrowing, structs, enums"
-aliases:
-course: rust
 status: evergreen
+updated: "2025-04-29"
 ---
 
 > Rust doesn't hide complexity from developers it offers them the right tools to manage all the complexity.
@@ -548,8 +549,6 @@ If someone makes an `immutable reference` , they don’t expect the value to cha
 
 If more than one `mutable references` happen, there is a possibility of a data race and synchronization issues
 
-💡
-
 Two good things to discuss at this point should be **but we’re going to ignore it for now 1.** `Lifetimes`
 **2. String slices (&str)**
 
@@ -726,7 +725,7 @@ fn main() {
 
 # Enums
 
-Enums in rust are similar to enums in Typescript. They allow you to define a type by enumerating its possible *variants*.
+Enums in rust are similar to enums in Typescript. They allow you to define a type by enumerating its possible _variants_.
 
 Ref - [https://doc.rust-lang.org/book/ch06-01-defining-an-enum.html](https://doc.rust-lang.org/book/ch06-01-defining-an-enum.html)
 
@@ -1039,7 +1038,7 @@ _Defining the type of the vector as a generic._
 # HashMap
 
 Hashmaps stores a key value pair in rust. Similar to objects in JS Dict in Python HashMaps in Java.
-
+![[Pasted image 20260718171703.png]]
 Methods
 
 1. Insert
@@ -1060,7 +1059,7 @@ Q: Write a function that takes a vector of tuples (each tuple containing a key a
 
 The iterator pattern allows you to perform some task on a sequence of items in turn. An iterator is responsible for the logic of iterating over each item and determining when the sequence has finished. When you use iterators, you don’t have to reimplement that logic yourself.
 
-In Rust, iterators are *lazy* , meaning they have no effect until you call methods that consume the iterator to use it up. For example, the code in Listing 13-10 creates an iterator over the items in the vector `v1` by calling the `iter` method defined on `Vec<T>`. This code by itself doesn’t do anything useful.
+In Rust, iterators are _lazy_ , meaning they have no effect until you call methods that consume the iterator to use it up. For example, the code in Listing 13-10 creates an iterator over the items in the vector `v1` by calling the `iter` method defined on `Vec<T>`. This code by itself doesn’t do anything useful.
 
 Filename: src/main.rs
 
@@ -1073,4 +1072,3 @@ let v1_iter = v1.iter();
 # Macro
 
 A macro is kinda a funtion but not a funtion it completely depends how the macro
-

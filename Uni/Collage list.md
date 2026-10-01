@@ -9,17 +9,22 @@ status: draft
 ---
 
 ## Reach Collage
+
 Stanford
 Mit
-Harvard
 UPen
-Caltech
-NUS
+warton
+
 ## Target
+
 Columbia
 NYC
+
 ## Safety
+
+Boston
+Arizona
+UCLA
 
 [[UNI STUFF]]
 [[Essay]]
-

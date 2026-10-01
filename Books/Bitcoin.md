@@ -17,7 +17,7 @@ color: "#f7931a"
 
 # Bitcoin
 
-**Status:** Unread  
+**Status:** Unread
 
 ## Summary
 

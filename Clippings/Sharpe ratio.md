@@ -13,6 +13,8 @@ tags:
 related:
   - The Sharpe ratio
 ---
+## app
+
 In finance, the **Sharpe ratio** (also known as the **Sharpe index**, the **Sharpe measure**, and the **reward-to-variability ratio**) measures the performance of an investment such as a [security](https://en.wikipedia.org/wiki/Security_\(finance\) "Security (finance)") or [portfolio](https://en.wikipedia.org/wiki/Portfolio_\(finance\) "Portfolio (finance)") compared to a [risk-free asset](https://en.wikipedia.org/wiki/Risk-free_interest_rate "Risk-free interest rate"), after adjusting for its [risk](https://en.wikipedia.org/wiki/Risk "Risk"). It is defined as the difference between the returns of the investment and the [risk-free return](https://en.wikipedia.org/wiki/Risk-free_return "Risk-free return"), divided by the [standard deviation](https://en.wikipedia.org/wiki/Standard_deviation "Standard deviation") of the investment returns. It represents the additional amount of return that an investor receives per unit of increase in risk.
 
 It was named after [William F. Sharpe](https://en.wikipedia.org/wiki/William_F._Sharpe "William F. Sharpe"),[^1] who developed it in 1966.

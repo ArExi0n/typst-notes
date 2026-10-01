@@ -54,12 +54,12 @@ status: evergreen
 | `[d`             | Previous diagnostic      |
 | `]d`             | Next diagnostic          |
 | `<leader>vca`    | Code action              |
-| `<leader>vi`     | Auto-fix imports         |
 | `<leader>vrr`    | References               |
 | `<leader>vrn`    | Rename symbol            |
 | `<C-h>` (insert) | Signature help           |
 | `<leader>f`      | Format buffer            |
 | `<leader>zig`    | Restart LSP              |
+| `<leader>vi`     | Auto-fix imports         |
 
 ## Telescope
 
@@ -164,6 +164,7 @@ status: evergreen
 | `<leader>rI`          | Inline function        |
 | `<leader>rb`          | Extract block          |
 | `<leader>rbf`         | Extract block to file  |
+|                       |                        |
 
 ## Quickfix / Location List
 
@@ -174,7 +175,10 @@ status: evergreen
 | `<leader>k`  | Next location           |
 | `<leader>j`  | Previous location       |
 | `<leader>tt` | Toggle trouble quickfix |
-
+| leader xq    | show autofix list       |
+| leader xx    | quickfix line           |
+|              |                         |
+leader vi auto fix imports
 ## Window Navigation (no arrow keys)
 
 | Key               | Action                    |
