@@ -24,15 +24,15 @@ status: draft
 ---
 In last lecture we studied about proof, sets, implification, axum, predicate, proposition and combining them. Check out [[lec01]] [[lec01.typ]] [[lec01_notes.typ]]
 
-## Proof by induction explained in short
+# Proof by induction explained in short
 
-### What we want to proof
+## What we want to proof
 ![[Screenshot 2026-05-30 at 3.34.34 PM.png]]
 
-## Proof
+# Proof
 ![[Screenshot 2026-05-30 at 3.33.24 PM.png]]
 
-### L-trominoes problem
+## L-trominoes problem
 ![[Pasted image 20260530155807.png]]
 
 

@@ -1,7 +1,7 @@
 {
-  "cssTheme": "Typewriter",
+  "cssTheme": "Sandstorm",
   "interfaceFontFamily": "JetBrainsMono Nerd Font Mono,JetBrainsMono Nerd Font",
-  "accentColor": "",
+  "accentColor": "#87623b",
   "baseFontSize": 23,
   "baseFontSizeAction": true,
   "enabledCssSnippets": [
