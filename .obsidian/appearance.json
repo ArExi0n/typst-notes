@@ -1,8 +1,8 @@
 {
-  "cssTheme": "OLED.Black",
+  "cssTheme": "Typewriter",
   "interfaceFontFamily": "JetBrainsMono Nerd Font Mono,JetBrainsMono Nerd Font",
   "accentColor": "",
-  "baseFontSize": 22,
+  "baseFontSize": 23,
   "baseFontSizeAction": true,
   "enabledCssSnippets": [
     "style"

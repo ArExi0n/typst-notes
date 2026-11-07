@@ -181,20 +181,20 @@ status: evergreen
 leader vi auto fix imports
 ## Window Navigation (no arrow keys)
 
-| Key               | Action                    |
-| ----------------- | ------------------------- |
-| `<leader>wh`      | Go to window left         |
-| `<leader>wj`      | Go to window down         |
-| `<leader>wk`      | Go to window up           |
-| `<leader>wl`      | Go to window right        |
-| `<leader>wH`      | Shrink window width       |
-| `<leader>wL`      | Grow window width         |
-| `<leader>wJ`      | Shrink window height      |
-| `<leader>wK`      | Grow window height        |
-| `<leader>wv`      | Split window vertically   |
-| `<leader>ws`      | Split window horizontally |
-| `<leader>wq`      | Close window              |
-| `<leader>w=`      | Equalize window sizes     |
+| Key          | Action                    |
+| ------------ | ------------------------- |
+| `<leader>wh` | Go to window left         |
+| `<leader>wj` | Go to window down         |
+| `<leader>wk` | Go to window up           |
+| `<leader>wl` | Go to window right        |
+| `<leader>wH` | Shrink window width       |
+| `<leader>wL` | Grow window width         |
+| `<leader>wJ` | Shrink window height      |
+| `<leader>wK` | Grow window height        |
+| `<leader>wv` | Split window vertically   |
+| `<leader>ws` | Split window horizontally |
+| `<leader>wq` | Close window              |
+| `<leader>w=` | Equalize window sizes     |
 
 ## File / Buffer Navigation
 
@@ -281,25 +281,25 @@ leader vi auto fix imports
 
 Prefix: `C-Space`
 
-| Key                  | Action                                   |
-| -------------------- | ---------------------------------------- |
-| `Prefix n` / `p`     | Next / previous window                   |
-| `Prefix <num>`       | Select window by number                  |
-| `Prefix l`           | Last / previous window                   |
-| `Prefix c`           | Create new window                        |
-| `Prefix ,`           | Rename window                            |
-| `Prefix w`           | List windows                             |
-| `Prefix S`           | Choose session tree                      |
-| `Prefix &`           | Kill window                              |
-| `Prefix %`           | Split pane vertically                    |
-| `Prefix "`           | Split pane horizontally                  |
-| `Prefix o`           | Next pane                                |
-| `Prefix <arrow>`     | Select pane                              |
-| `Prefix z`           | Zoom pane                                |
-| `Prefix r`           | Reload tmux config                       |
-| `<C-f>`              | Open tmux sessionizer (new window)       |
-| `<M-h>`              | Open tmux sessionizer (vsplit)           |
-| `<M-H>`              | Open tmux sessionizer (new window, nvim) |
+| Key              | Action                                   |
+| ---------------- | ---------------------------------------- |
+| `Prefix n` / `p` | Next / previous window                   |
+| `Prefix <num>`   | Select window by number                  |
+| `Prefix l`       | Last / previous window                   |
+| `Prefix c`       | Create new window                        |
+| `Prefix ,`       | Rename window                            |
+| `Prefix w`       | List windows                             |
+| `Prefix S`       | Choose session tree                      |
+| `Prefix &`       | Kill window                              |
+| `Prefix %`       | Split pane vertically                    |
+| `Prefix "`       | Split pane horizontally                  |
+| `Prefix o`       | Next pane                                |
+| `Prefix <arrow>` | Select pane                              |
+| `Prefix z`       | Zoom pane                                |
+| `Prefix r`       | Reload tmux config                       |
+| `<C-f>`          | Open tmux sessionizer (new window)       |
+| `<M-h>`          | Open tmux sessionizer (vsplit)           |
+| `<M-H>`          | Open tmux sessionizer (new window, nvim) |
 
 ## Go Error Helpers
 

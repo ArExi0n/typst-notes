@@ -57,7 +57,6 @@ Closing a TCP connection requires a four-step handshake to ensure both sides fin
 - Once TCP creates segments, they are handed to IP (Internet Protocol).
 - IP is responsible for delivering the segments from the sender to the receiver, possibly through multiple routers.
 - TCP doesn’t care about the path—IP handles routing and addressing.
-
 ### 3\. Reassembly at Receiver
 
 - Segments may arrive out of order because they can take different paths through the network.

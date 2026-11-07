@@ -40,20 +40,20 @@ tags:
 
 ## Diagnostics / Error Counter
 
-| Key              | Action                   |
-| ---------------- | ------------------------ |
-| `;e`             | Workspace diagnostics (Telescope) |
-| `;E`             | File diagnostics (Telescope)      |
-| `<leader>d`      | Buffer diagnostics to quickfix    |
+| Key         | Action                            |
+| ----------- | --------------------------------- |
+| `;e`        | Workspace diagnostics (Telescope) |
+| `;E`        | File diagnostics (Telescope)      |
+| `<leader>d` | Buffer diagnostics to quickfix    |
 
 ## Themes
 
-| Key              | Action                   |
-| ---------------- | ------------------------ |
-| `:Theme`         | Select theme             |
-| `:ThemeNext`     | Next theme               |
-| `:ThemePrev`     | Previous theme           |
-| `:ThemeSelect`   | Open theme selector      |
+| Key            | Action              |
+| -------------- | ------------------- |
+| `:Theme`       | Select theme        |
+| `:ThemeNext`   | Next theme          |
+| `:ThemePrev`   | Previous theme      |
+| `:ThemeSelect` | Open theme selector |
 
 ## Quickfix / Location List
 
@@ -137,3 +137,4 @@ Keybind	Action
 | `;c` | Open LazyGit |
 | `<C-f>` | Tmux sessionizer |
 | `<leader>ca` | Make it rain |
+	

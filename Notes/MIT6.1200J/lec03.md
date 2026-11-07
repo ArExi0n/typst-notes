@@ -23,8 +23,6 @@ status: draft
 updated: 2026-06-03 16:13:17
 ---
 
-## development blog
-
 ```typst
 
 #set document(title: "6.1200J Lecture 03: Casework and Strong Induction")

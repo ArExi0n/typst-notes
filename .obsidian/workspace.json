@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c8cdd526dc739b5d",
+        "id": "3a46b3a441dc8e1b",
         "type": "tabs",
         "children": [
           {
-            "id": "3768a8ebb4a2d6b9",
+            "id": "3810348172080311",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/the black book of quantitative finance.md",
+                "file": "Notes/nvim-keybinds.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "the black book of quantitative finance"
-            }
-          },
-          {
-            "id": "6d53fa0273646f25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Solana - Blockchains and Bitcoin.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Solana - Blockchains and Bitcoin"
-            }
-          },
-          {
-            "id": "acd3898d3cbbefcb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Transmission Control Protocol (TCP).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Transmission Control Protocol (TCP)"
+              "title": "nvim-keybinds"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -62,18 +33,7 @@
       {
         "id": "0a68e8d6f6b79ef8",
         "type": "tabs",
-        "dimension": 58.30985915492957,
         "children": [
-          {
-            "id": "51d8077948e1551b",
-            "type": "leaf",
-            "state": {
-              "type": "notebook-navigator",
-              "state": {},
-              "icon": "notebook-navigator",
-              "title": "Notebook Navigator"
-            }
-          },
           {
             "id": "b322dec173d47d5a",
             "type": "leaf",
@@ -90,12 +50,26 @@
             }
           },
           {
+            "id": "fdf96dd6d843fab5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/Rag Pipeline.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rag Pipeline"
+            }
+          },
+          {
             "id": "5dc6fd1b39eac85d",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "class",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -125,56 +99,14 @@
               "icon": "typst-stroke",
               "title": "Typst Tools"
             }
-          }
-        ]
-      },
-      {
-        "id": "e7a3ca689fd82e95",
-        "type": "tabs",
-        "dimension": 41.69014084507043,
-        "children": [
-          {
-            "id": "6a8df17eef66b44f",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
           },
-          {
-            "id": "fdf96dd6d843fab5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ],
-        "currentTab": 1
-      }
-    ],
-    "direction": "horizontal",
-    "width": 414.5
-  },
-  "right": {
-    "id": "fb58d20aeb686338",
-    "type": "split",
-    "children": [
-      {
-        "id": "24789782921b94fb",
-        "type": "tabs",
-        "children": [
           {
             "id": "af938fd0f8389821",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2026-05-18.md",
+                "file": "Notes/nvim-keybinds.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -184,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-05-18"
+              "title": "Backlinks"
             }
           },
           {
@@ -193,12 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2026-05-18.md",
+                "file": "Notes/nvim-keybinds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2026-05-18"
+              "title": "Outgoing links"
             }
           },
           {
@@ -215,6 +147,31 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 414.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "fb58d20aeb686338",
+    "type": "split",
+    "children": [
+      {
+        "id": "24789782921b94fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51d8077948e1551b",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "Notebook Navigator"
+            }
           },
           {
             "id": "10b6e654bb31d704",
@@ -222,22 +179,46 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clippings/Probability Theory Fundamentals for Quantitative Finance - Interactive.md",
+                "file": "Notes/nvim-keybinds.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Probability Theory Fundamentals for Quantitative Finance - Interactive"
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "6a8df17eef66b44f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 3
+        ]
+      },
+      {
+        "id": "dfc8311de6860bfd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0fe48f944c237ba",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 379.5,
-    "collapsed": true
+    "width": 351.313232421875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,47 +231,48 @@
       "templates:Insert template": false,
       "graph:Open graph view": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "51d8077948e1551b",
+  "active": "3810348172080311",
   "lastOpenFiles": [
+    "Notes/nvim-keybinds.md",
+    "Extra/Template/uni-note.md",
+    "Notes/MIT6.1200J/lec03.md",
+    "Notes/MIT6.1200J/lec01.md",
+    "Notes/MIT6.1200J/lec02.md",
+    "Notes/Nvim KeyBinds.md",
+    "Notes/keyboard-bindings.md",
+    "Notes/Rust.md",
     "Notes/Transmission Control Protocol (TCP).md",
+    "Notes/MIT6.875/lecnotes.pdf",
+    "Notes/MIT6.875/NumberTheory.pdf",
+    "Notes/hey.md",
+    "Journal/2026-10-30.md",
+    "Journal/2026-10-04.md",
+    "Clippings/Rag Pipeline.md",
+    "Clippings/Race condition.md",
+    "Journal/2026-10-18.md",
+    "Notes/Cryptography.pdf",
+    "Notes/lecnotes.pdf",
+    "Notes/NumberTheory.pdf",
+    "Clippings/Array Data Structure.md",
+    "Clippings/Reverse a Linked List.md",
+    "Notes/notes.md",
+    "hey~",
+    "hey",
+    "Journal/2026-10-03.md",
+    "Notes/Solana - Blockchains and Bitcoin.md",
     "Clippings/Deviation (statistics).md",
     "Clippings/Transmission Control Protocol (TCP).md",
     "Notes/MIT6.875/lec6.pdf",
     "Extra/Template/projects.md",
     "Extra/PVT/Solana pvt.md",
     "Extra/PVT/PVT stuff.md",
-    "Notes/Nvim KeyBinds.md",
     "Journal/thoughts/I am the smartest one in every single room and trust the process.md",
-    "Books/Read People Like a Book.md",
     "Books/Read People Like a Book.pdf",
-    "Books/Quotes.md",
     "Books/ERICA-GRAMMAR-FOR-DIGITAL-SAT.pdf",
-    "Books/ERICA Grammar for Digital SAT.md",
-    "Clippings/the black book of quantitative finance.md",
-    "Notes/MIT6.875/MIT 6.875 HW notes.pdf",
-    "Notes/MIT6.875/lecnotes.pdf",
-    "Extra/Excalidraw/Solana.md",
-    "Extra/Excalidraw/Drawing 2026-05-18 14.44.49.excalidraw.md",
-    "Extra/Excalidraw/Drawing 2025-04-26 17.40.57.excalidraw.md",
-    "Extra/Template/book-note.md",
-    "Notes/react-hooks.md",
-    "Notes/Solana - Blockchains and Bitcoin.md",
-    "Notes/Rust.md",
-    "Journal/thoughts/Dont be afraid to be wrong trust me.md",
-    "Journal/thoughts/thoughts.md",
-    "Journal/thoughts/thoughts_tech.md",
-    "Journal/thoughts",
-    "Notes/nvim-keybinds.md",
-    "Notes/MIT6.1200J/typst_notes/lec02_notes.pdf",
-    "Uni/Essay.md",
-    "Clippings/Post by @im_roy_lee on X.md",
-    "Clippings/I made MacOS feel like Linux.md",
-    "Notes/react-hooks.md~",
-    "Notes/MIT6.1200J/typst_notes/lec01_notes.pdf",
-    "Notes/MIT6.1200J/typst_notes/black-scholes.typ~",
     "Extra/Images/Screenshot 2026-07-24 at 10.19.15 PM.png",
     "Extra/Images/Screenshot 2026-07-24 at 10.18.48 PM.png",
     "Extra/Images/Screenshot 2026-07-24 at 10.19.40 PM.png",
